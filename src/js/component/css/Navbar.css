@@ -1,0 +1,5 @@
+@media (max-width: 767px) {
+    .ml-md-auto {
+      margin-left: 0 !important; /* Reset margin for small screens */
+    }
+  }
